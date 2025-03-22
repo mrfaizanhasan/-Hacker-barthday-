@@ -1,0 +1,14 @@
+style.cssbody {
+    background-color: black;
+    color: green;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    white-space: pre-line;
+    font-size: 18px;
+}
